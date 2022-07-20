@@ -13,3 +13,5 @@ lean_lib FFT {
 lean_exe fFT {
   root := `Main
 }
+
+require mathlib from "../mathlib4"

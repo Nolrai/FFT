@@ -1,3 +1,4 @@
+import FFT.Rat
 import FFT
 
 def main : IO Unit :=
